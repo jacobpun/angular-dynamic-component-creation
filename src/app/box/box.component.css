@@ -1,0 +1,12 @@
+.box {
+    width: 150px;
+    height: 100px;
+    background-color: darkred;
+    color: white;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 70px;
+    text-justify: auto;
+    padding: 20px;
+    flex: 1;
+}
